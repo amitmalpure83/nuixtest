@@ -1,0 +1,14 @@
+{
+	"flightSearchTest": [
+		{
+			"DepartureCity": "Sydney (SYD - Kingsford Smith Intl.)",
+			"DestinationCity": "Melbourne (MEL - Tullamarine)",
+			"DepartingDate": "Nov 15, 2021",
+			"ReturnDate": "Nov 17, 2021",
+			"DepartureFlightName": "Sydney to Melbourne",
+			"DepartureFlightDate": "Mon, Nov 15",
+			"ReturnFlightName": "Melbourne to Sydney",
+			"ReturnFlightDate": "Wed, Nov 17"
+		}
+	]
+}

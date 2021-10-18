@@ -1,0 +1,27 @@
+{
+	"invalidCredentialsTest": [
+		{
+			"userName": "amit123",
+			"password": "amit123",
+			"errorMessage": "Please provide a valid email address."
+		},
+		{
+			"userName": "amit123@gmail.com",
+			"password": "",
+			"errorMessage": "Please enter your password."
+		},
+		{
+			"userName": "",
+			"password": "",
+			"errorMessage": "Please enter your email address."
+		}
+	],
+	
+	"incorrectCredentialsTest": [
+		{
+			"userName": "amit123@gmail.com",
+			"password": "amit123",
+			"errorMessage": "You may have entered an unknown email address or an incorrect password."
+		}
+	]
+}

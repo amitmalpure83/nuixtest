@@ -1,0 +1,15 @@
+{
+	"flightSearchTest": [
+		{
+			"DestinationCity": "Melbourne",
+			"DepartingDate": "Nov 15, 2021",
+			"ReturnDate": "Nov 17, 2021",
+			"noOfChildren": "2",
+			"noOfAdults": "4",
+			"childAge1": "4",
+			"childAge2": "12",
+			"hotelName": "Grand Hyatt Melbourne"
+			
+		}
+	]
+}
